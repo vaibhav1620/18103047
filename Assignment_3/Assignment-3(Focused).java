@@ -6,7 +6,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class Focused_crawler {
+public class Assigbment-3(Focused) {
 
 	public static void main(String[] args) throws IOException {
 		ArrayList<String> urlList = new ArrayList<String>();
