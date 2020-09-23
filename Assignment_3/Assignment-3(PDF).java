@@ -13,7 +13,7 @@ import org.jsoup.select.Elements;
 import com.opencsv.CSVWriter;
 
 
-public class Pdf_crawler {
+public class Assignment-3(PDF){
 
 	public static void main(String[] args) throws IOException {
 		File csvFile = new File("PDFfile.csv");
